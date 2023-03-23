@@ -1,0 +1,20 @@
+.post {
+  padding: 5%;
+  background: slategray;
+  color: red;
+}
+.post h1 {
+  font-size: 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.author {
+  padding: 5%;
+  background: chartreuse;
+  color: blue;
+}
+.authorText {
+  font-size: 20px;
+  margin-bottom: 2%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
